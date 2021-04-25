@@ -1,6 +1,6 @@
 ### Hello There! I am <a href="http://karaiyaashu.github.io"> Ashutosh Karaiya.</a> <img src="https://media.giphy.com/media/eNotYhz6gsoNBUzsUa/giphy.gif" width="80">
 
-[![Linkedin Badge](https://img.shields.io/badge/-ashutosh-karaiya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashutosh-karaiya/)](https://www.linkedin.com/in/ashutosh-karaiya/)
+[![Linkedin Badge](https://img.shields.io/badge/-ashutosh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashutosh-karaiya/)](https://www.linkedin.com/in/ashutosh-karaiya/)
 [![Gmail Badge](https://img.shields.io/badge/-karaiyaashutosh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karaiyaashutosh@gmail.com)](mailto:karaiyaashutosh@gmail.com)
 ![](https://komarev.com/ghpvc/?username=karaiyaashu&color=blueviolet)
 
