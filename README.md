@@ -6,7 +6,7 @@
 
 <!--## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"> Summary: <img src="https://media.giphy.com/media/lPAXUzSS1PlwgH53oz/giphy.gif" width="30">-->
 
-<!-- ### A final year undergraduate pursuing a Bachelor's degree in Electrical Engineering from Thapar Institute of Engineering and Technology, Patiala.-->
+<!-- ### -->
 
 <!--### Technical proficiencies include:-->
 
